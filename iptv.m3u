@@ -5736,7 +5736,6 @@ http://58.46.31.42:8188/udp/239.76.253.134:9000
 http://58.46.31.42:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 http://122.70.160.24:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
 http://106.116.243.172:9999/rtp/239.254.201.3:5227
 http://27.184.65.181:58888/rtp/239.254.201.3:5227
@@ -5765,7 +5764,6 @@ http://58.46.31.42:8188/udp/239.76.253.135:9000
 http://58.46.31.42:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/凤凰香港.png" group-title="港澳频道",凤凰香港
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 http://122.70.160.24:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
 http://42.92.195.203:10000/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/凤凰电影.png" group-title="港澳频道",凤凰电影
