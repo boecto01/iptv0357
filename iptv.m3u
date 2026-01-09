@@ -71,25 +71,20 @@ http://171.83.103.119:9999/rtp/239.69.1.79:10114
 http://171.83.103.119:9999/rtp/239.69.1.90:10180
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/风云足球.png" group-title="央视频道",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/风云剧场.png" group-title="央视频道",风云剧场
 http://171.125.90.120:6001/rtp/226.0.2.227:9728
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/怀旧剧场.png" group-title="央视频道",怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-http://171.83.103.119:9999/rtp/239.69.1.89:10174
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/第一剧场.png" group-title="央视频道",第一剧场
 http://171.83.103.119:9999/rtp/239.69.1.74:10084
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/女性时尚.png" group-title="央视频道",女性时尚
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-http://120.76.248.139/live/bfgd/4200000176.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/世界地理.png" group-title="央视频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-http://120.76.248.139/live/bfgd/4200000177.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/央视台球.png" group-title="央视频道",央视台球
 http://221.198.198.213:8888/udp/225.1.2.170:5002
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/高尔夫网球.png" group-title="央视频道",高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-http://171.125.90.120:6001/rtp/226.0.2.217:9648
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/央视文化精品.png" group-title="央视频道",央视文化精品
 http://171.125.90.120:6001/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/北京纪实科教.png" group-title="央视频道",北京纪实科教
@@ -98,7 +93,6 @@ http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/322122655
 http://36.49.53.247:8800/rtp/239.37.0.229:5540
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/电视指南.png" group-title="央视频道",电视指南
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-http://171.83.103.119:9999/rtp/239.69.1.87:10162
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/山东卫视.png" group-title="卫视频道",山东卫视
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -224,13 +218,10 @@ http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 http://39.107.120.164:8080/live/diyp_fhdy.flv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-http://129.150.54.232:10001/yy/1382736823
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-http://221.198.198.213:8888/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/淘电影.png" group-title="电影频道",淘电影
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/淘剧场.png" group-title="电影频道",淘剧场
