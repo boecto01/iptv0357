@@ -294,7 +294,6 @@ http://58.35.95.16:9898/rtp/233.18.204.184:5140
 http://14.145.179.245:8888/udp/239.253.43.15:5146
 http://119.135.193.13:10000/udp/239.253.43.15:5146
 http://118.77.150.16:8085/rtp/226.0.2.221:9680
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/女性时尚.png" group-title="央视频道",女性时尚
 http://180.171.157.7:8889/rtp/233.18.204.180:5140
 http://58.35.95.16:9898/rtp/233.18.204.180:5140
@@ -308,14 +307,12 @@ http://58.35.95.16:9898/rtp/233.18.204.179:5140
 http://14.145.179.245:8888/udp/239.253.43.7:5146
 http://119.135.193.13:10000/udp/239.253.43.7:5146
 http://118.77.150.16:8085/rtp/226.0.2.222:9688
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/央视台球.png" group-title="央视频道",央视台球
 http://180.171.157.7:8889/rtp/233.18.204.177:5140
 http://58.35.95.16:9898/rtp/233.18.204.177:5140
 http://14.145.179.245:8888/udp/239.253.43.11:5146
 http://119.135.193.13:10000/udp/239.253.43.11:5146
 http://118.77.150.16:8085/rtp/226.0.2.216:9640
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/高尔夫网球.png" group-title="央视频道",高尔夫网球
 http://180.171.157.7:8889/rtp/233.18.204.181:5140
 http://58.35.95.16:9898/rtp/233.18.204.181:5140
@@ -864,7 +861,6 @@ http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 http://156.238.248.80:8880/play/59.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://156.238.248.80:8880/play/57.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/淘电影.png" group-title="电影频道",淘电影
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/淘剧场.png" group-title="电影频道",淘剧场
@@ -882,7 +878,6 @@ http://58.35.95.16:9898/rtp/233.18.204.46:5140
 http://58.35.95.16:9898/rtp/233.18.204.54:5140
 http://112.255.80.180:4004/udp/239.253.254.115:8000
 http://182.138.203.158:8188/rtp/239.94.1.171:5140
-http://220.176.219.18:9000/udp/239.252.219.59:5140
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/哒啵电竞.png" group-title="儿童频道",哒啵电竞
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/黑莓动画.png" group-title="儿童频道",黑莓动画
@@ -999,10 +994,8 @@ http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/生活时尚.png" group-title="综合频道",生活时尚
 http://112.255.80.180:4004/udp/239.253.254.99:8000
 http://182.138.203.158:8188/rtp/239.94.2.233:5140
-http://221.198.198.213:8888/udp/225.1.1.143:5002
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/都市剧场.png" group-title="综合频道",都市剧场
 http://112.255.80.180:4004/udp/239.253.254.98:8000
-http://116.237.37.244:8888/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/欢笑剧场.png" group-title="综合频道",欢笑剧场
 http://116.237.37.244:8888/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/游戏风云.png" group-title="综合频道",游戏风云
@@ -1011,18 +1004,14 @@ http://58.35.95.16:9898/rtp/233.18.204.44:5140
 http://112.255.80.180:4004/udp/239.253.254.95:8000
 http://182.138.203.158:8188/rtp/239.94.1.46:5140
 http://182.138.203.158:8188/rtp/239.94.2.235:5140
-http://221.198.198.213:8888/udp/225.1.1.135:5002
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金色学堂.png" group-title="综合频道",金色学堂
 http://112.255.80.180:4004/udp/239.253.254.101:8000
-http://106.53.99.30/tv/hot.php?id=jsxt
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/法治天地.png" group-title="综合频道",法治天地
 http://112.255.80.180:4004/udp/239.253.254.96:8000
-http://116.237.37.244:8888/rtp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/哒啵赛事.png" group-title="综合频道",哒啵赛事
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/魅力足球.png" group-title="体育频道",魅力足球
 http://112.255.80.180:4004/udp/239.253.254.100:8000
-http://221.198.198.213:8888/udp/225.1.1.137:5002
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/五星体育.png" group-title="体育频道",五星体育
 http://180.157.233.109:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/劲爆体育.png" group-title="体育频道",劲爆体育
