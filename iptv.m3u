@@ -790,7 +790,6 @@ http://120.196.235.42:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.11.239.36:808/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/农林卫视.png" group-title="卫视频道",农林卫视
 http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/山东教育.png" group-title="卫视频道",山东教育
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226934/1.m3u8
 http://123.13.27.250:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -963,7 +962,6 @@ http://182.207.218.25:999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/哈哈炫动.png" group-title="儿童频道",哈哈炫动
 http://120.196.235.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.198.67.160:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.56.90.5/000000000000/5000000005000031641/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/嘉佳卡通.png" group-title="儿童频道",嘉佳卡通
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8
 http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1044,10 +1042,8 @@ http://111.56.90.5/000000000000/5000000006000040025/index.m3u8
 http://123.13.27.250:9901/tsfile/live/1116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/生活时尚.png" group-title="综合频道",生活时尚
 http://123.13.27.250:9901/tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.56.90.5/000000000000/5000000002000019634/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/都市剧场.png" group-title="综合频道",都市剧场
 http://221.7.49.226:50085/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
-http://111.56.90.5/000000000000/5000000002000004412/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/欢笑剧场.png" group-title="综合频道",欢笑剧场
 http://123.13.27.250:9901/tsfile/live/1119_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.56.90.5/000000000000/5000000002000009455/index.m3u8
