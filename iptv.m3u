@@ -61,10 +61,8 @@ http://125.42.151.253:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=
 http://8.153.110.51:3020/631780421
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
 http://8.153.110.51:3020/608807419
-http://182.61.15.47:80/608807419
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://8.153.110.51:3020/608807416
-http://111.231.6.102:1234/608807416
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV5.png" group-title="央视频道",CCTV5
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
 http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
