@@ -52,7 +52,6 @@ http://59.110.175.70:10000/608807416
 http://223.247.25.219:1234/608807416
 http://182.61.15.47:80/608807416
 http://27.12.12.174:1234/608807416
-http://110.154.192.81:7788/608807416
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV5.png" group-title="央视频道",CCTV5
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
 http://116.236.204.18:1234/641886683
@@ -495,7 +494,6 @@ http://116.52.173.172:1234/644368373
 http://182.61.15.47:80/644368373
 http://223.247.25.219:1234/644368373
 http://27.12.12.174:1234/644368373
-http://110.154.192.81:7788/644368373
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://222.130.32.241:7788/952383261
 http://223.247.25.219:1234/952383261
@@ -504,7 +502,6 @@ http://116.52.173.172:1234/952383261
 http://59.110.175.70:10000/952383261
 http://27.12.12.174:1234/952383261
 http://116.236.204.18:1234/952383261
-http://117.63.79.182:1234/952383261
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/淘电影.png" group-title="电影频道",淘电影
 http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/淘剧场.png" group-title="电影频道",淘剧场
