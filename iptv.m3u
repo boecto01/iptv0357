@@ -285,11 +285,9 @@ http://39.107.120.164:8080/live/diyp_fhdy.flv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://112.11.122.190:58503/644368714
 http://101.35.240.114:88/live.php?id=CHC动作电影
-http://117.72.81.170:3000/644368714
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://112.11.122.190:58503/644368373
 http://101.35.240.114:88/live.php?id=CHC家庭影院
-http://117.72.81.170:3000/644368373
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://112.11.122.190:58503/952383261
 http://101.35.240.114:88/live.php?id=CHC影迷电影
